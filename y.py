@@ -24,5 +24,5 @@ print("ENJOY YOUR LIFE\n\n")
 
 print("LIVE PEACEFULLY\n\n")
 
-print("GOOD BYE 🙂\n\n")
+print("GOOD BYE ✨❤️\n\n")
 
