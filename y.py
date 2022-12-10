@@ -1,4 +1,4 @@
-print("\nWELCOME TO ALPHA ? NONE\n\n")
+print("\nWELCOME TO ALPHA ?\n\n")
 
 print("YASHVI? \n\n")
 
@@ -8,4 +8,3 @@ print("MOVE ON\n\n")
 
 print("GOOD BYE 🙂\n\n")
 
-print("DEATH\n")
